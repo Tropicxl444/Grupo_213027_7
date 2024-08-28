@@ -37,7 +37,6 @@ Somos **Grupo_213027_7**, un equipo de estudiantes de Ingeniería Multimedia en 
 
 Cada miembro del equipo aporta una combinación única de habilidades y conocimientos especializados. Estamos dedicados a colaborar de manera efectiva y a cumplir con los más altos estándares de calidad en cada etapa del desarrollo, garantizando un videojuego técnicamente sólido, creativo e innovador.
 
----
 
 
 
